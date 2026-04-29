@@ -1,4 +1,4 @@
-clc; clear; 
+clc; clear; close all;
 
 dane = readRigolbin("RigolDS2.bin");
 
